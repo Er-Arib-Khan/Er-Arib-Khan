@@ -1,7 +1,7 @@
 # Hi there! I'm Arib Khan 👋
 
 🚀 **Data Scientist | AI/ML Enthusiast | Python Developer**  
-📍 New Delhi, India | 📧 khanarib075@gmail.com
+📍 Nashik, India | 📧 khanarib075@gmail.com
 
 ---
 
