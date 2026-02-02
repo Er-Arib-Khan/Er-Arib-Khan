@@ -5,7 +5,7 @@
 
 ---
 
-## 📊 About Me
+## About Me
 
 I'm a passionate Data Scientist with expertise in transforming raw data into meaningful insights and predictive models. My journey in data science combines technical skills with business acumen to solve real-world problems. Currently expanding my toolkit with **Streamlit** for building interactive data applications.
 
