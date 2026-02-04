@@ -142,14 +142,14 @@ I'm always open to interesting conversations and opportunities!
 
 💼 **Looking for:** Data Science roles, ML Engineering positions, Research collaborations  
 📧 **Email:** khanarib075@gmail.com  
-📍 **Based in:** New Delhi, India (Open to remote opportunities)
+📍 **Based in:** Nashik, India (Open to offline and online pportunities)
 
 ---
 
 ### 📌 Quick Stats
 - ✅ **Projects Completed:** 15+
 - 📚 **Models Built:** 50+
-- 🏆 **Competitions:** Kaggle & Analytics Vidhya participant
+- 🏆 **Competitions:**Nasa Space Hackethon, library poster competition, idea pitching competition, Nyps participant etc
 - 📊 **Datasets Analyzed:** 100+
 - 🎯 **Accuracy Improvement:** Consistently achieve 10-30% improvement over baseline models
 
